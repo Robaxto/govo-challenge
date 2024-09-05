@@ -2,6 +2,12 @@
   "name": "fee-calculator",
   "version": "1.0.0",
   "description": "A fee calculator.",
-  "author": "",
-  "license": "ISC"
+  "author": "Roberto Avilez",
+  "type": "module",
+  "license": "ISC",
+  "scripts": {
+    "fees": "node fees.js",
+    "distributions": "node distributions.js",
+    "results": "node results.js"
+  }
 }
