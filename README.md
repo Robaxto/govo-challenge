@@ -83,6 +83,8 @@ Total distributions:
    Fund - Vital Statistics Preservation Fee: $3.00
 ```
 
+## Instructions
+
 Part 1: Fees
 
 The file fees.json describes fees that are applied to different types of items in an order. Each type of item in a order can have one or more fees associated with it.
